@@ -72,7 +72,7 @@ const socialLinks: SocialLink[] = [
 export const PageSocial: React.FC = () => {
   return (
     <div className={styles.pageSocial}>
-      {socialLinks.map((action) => (
+      {/* {socialLinks.map((action) => (
         <a
           className={cs(styles.action, styles[action.name])}
           href={action.href}
@@ -87,7 +87,7 @@ export const PageSocial: React.FC = () => {
 
           <div className={styles.actionBg}>{action.icon}</div>
         </a>
-      ))}
+      ))} */}
     </div>
   )
 }
