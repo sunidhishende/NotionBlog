@@ -57,8 +57,13 @@ export default siteConfig({
       pageId: 'a035c537cd28455d902c4237dede56e9'
     },
     {
+      title: 'Progress',
+      pageId: '06e53460c115452e9ae3e91cf559ef7d'
+    },
+    {
       title: 'Contact',
       pageId: '8bed66007e6b4d63aed25632d622df93'
-    }
+    },
+    
   ]
 })
