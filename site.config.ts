@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Weird Maybe',
+  name: 'Sunidhi\'s Blog',
   domain: '',
   author: 'Sunidhi Shende',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Home Page of Sunidhi Shende'
 
   // social usernames (optional)
   twitter: 'sunidhishende',
