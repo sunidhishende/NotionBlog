@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Sunidhi Shende',
 
   // open graph metadata (optional)
-  description: 'Home Page of Sunidhi Shende'
+  description: 'Home Page of Sunidhi Shende',
 
   // social usernames (optional)
   twitter: 'sunidhishende',
